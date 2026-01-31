@@ -12,15 +12,14 @@ and makes the data available through:
 * Console output
 * CSV file export for further analysis
 
-🛠️ Tools & Technologies
+### Tools & Technologies
 
 * Python 3
-
 * Requests – HTTP requests and data fetching
 * BeautifulSoup (bs4) – Parsing unstructured HTML data
 * lxml – Efficient HTML parser
-* End-to-End Workflow
 
+###  End-to-End Workflow
   E-Commerce Website
 → HTTP Data Fetching (Requests)
 → HTML Parsing (BeautifulSoup, lxml)
@@ -28,7 +27,7 @@ and makes the data available through:
 → Visualization (GUI / Console)
 → CSV Export for Analytics
 
-* Key Features
+### Key Features
   
 * Extracts structured data from unstructured web pages
 * Validates and formats scraped data
@@ -38,7 +37,7 @@ and makes the data available through:
 * Tkinter – GUI-based data visualization
 * CSV – Structured data storage
 
-  -> Project Output
+ ### Project Output
 
 * CSV File: Clean, structured dataset ready for analysis
 * GUI Table: User-friendly visualization of extracted data
